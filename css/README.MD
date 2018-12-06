@@ -1,6 +1,6 @@
 
 ### linecons.css
-https://rawgit.com/angeal185/cdn/master/css/linecons.css
+https://cdn.jsdelivr.net/gh/angeal185/cdn/css/linecons.css
 
 ### raleway.css
-https://cdn.rawgit.com/angeal185/cdn/61253bd8/css/raleway.css
+https://cdn.jsdelivr.net/gh/angeal185/cdn@61253bd8/css/raleway.css

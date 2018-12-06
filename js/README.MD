@@ -1,4 +1,4 @@
 
 
 ##chaffle.js
-https://rawgit.com/angeal185/cdn/master/js/chaffle.js
+https://cdn.jsdelivr.net/gh/angeal185/cdn/js/chaffle.js
